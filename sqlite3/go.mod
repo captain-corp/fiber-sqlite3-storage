@@ -1,4 +1,4 @@
-module github.com/captain-corp/fiber-sqlite3-storage
+module github.com/captain-corp/storage/sqlite3
 
 go 1.19
 
